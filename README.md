@@ -3,7 +3,7 @@
   <img src="https://i.waifu.pics/EN6o4oM.gif" width="100%" alt="banner" />
 </p>
 
-# Xin Chao, I'm Thai An ~ こんにちは 👋
+# Xin Chao, I'm Thai An ~ 你好，我来自泰国安。 👋
 
 ---
 
