@@ -30,3 +30,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="391" height="200" alt="kyubey" />
 </p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=6&display_format=percent&theme=gruvbox_light)](https://wakatime.com/@alan)
